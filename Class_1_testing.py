@@ -9,6 +9,5 @@ x = 10
 y = 1
 print(x + y)
 
-print('hello world')
-
+print('no more math')
 
